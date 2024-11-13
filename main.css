@@ -1,0 +1,37 @@
+h1 {
+	background-color: rgb(234, 199, 157);
+}
+h2 {
+	background-color: aquamarine;
+	animation: bounceOutLeft;
+	animation-duration: 5s;
+}
+img {
+	width: 300px;
+	height: 300px;
+	display: block;
+	border-radius: 150px;
+}
+a {
+	color: brown;
+	background-color: rgb(231, 186, 127);
+	padding-left: 10px;
+	padding-right: 10px;
+}
+nav {
+	background-color: antiquewhite;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+.link1 {
+	animation: lightSpeedInRight;
+	animation-duration: 1s;
+}
+.link2 {
+	animation: lightSpeedInRight;
+	animation-duration: 1s;
+}
+.link3 {
+	animation: lightSpeedInRight;
+	animation-duration: 1s;
+}
